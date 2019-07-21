@@ -1,5 +1,5 @@
 import React from 'react'
-import icon from '../logo.svg'
+import icon from '../cosmic.svg'
 
 export default function Footer() {
     return (
